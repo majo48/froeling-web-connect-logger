@@ -11,6 +11,8 @@ Changes in the Fröling website may cause errors in this application, which is n
 # Input (CLI / configuration)
 - account name and password @connect-web.froeling.com
 - data acquisition period in minutes (15, 30, 60)
+- Copy file shared/local_settings.py.dist to shared/local_settings.py
+- Edit shared/local_settings.py to match your configuration
 
 # Process
 - connect-web-logger/logger/app.py:
